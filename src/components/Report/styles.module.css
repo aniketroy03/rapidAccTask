@@ -1,0 +1,23 @@
+.header {
+    margin-bottom: 20px;
+}
+
+.mathReport {
+    font-family: 'Nunito Sans';
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+    color: #101828;
+}
+
+.totalItems {
+    background-color: #EFF8FF;
+    padding: 2px 8px 2px 8px;
+    border-radius: 16px;
+    font-family: 'Nunito Sans';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    color: #0065A4;
+    margin-left: 16px;
+}
